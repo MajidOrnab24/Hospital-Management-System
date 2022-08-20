@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1635704002 source:d:\my class\3rd semester\cse 4302(oop lab)\hospital management system\main.cpp
+	<iostream>
+	"doctor.h"
+	<windows.h>
+
+1635704256 d:\my class\3rd semester\cse 4302(oop lab)\hospital management system\doctor.h
+	<process.h>
+	<iostream>
+	<typeinfo>
+	"patient.h"
+	<stdio.h>
+	<string.h>
+	<string>
+	<vector>
+	<fstream>
+
+1635702744 d:\my class\3rd semester\cse 4302(oop lab)\hospital management system\patient.h
+	<iostream>
+	<stdio.h>
+	<typeinfo>
+	<string.h>
+	<string>
+	<vector>
+
+1635832799 source:c:\users\majid\onedrive\desktop\hospital management system\main.cpp
+	<iostream>
+	"doctor.h"
+	<windows.h>
+	<fstream>
+
+1635832985 c:\users\majid\onedrive\desktop\hospital management system\doctor.h
+	<process.h>
+	<iostream>
+	<algorithm>
+	<typeinfo>
+	"patient.h"
+	<stdio.h>
+	<string.h>
+	<string>
+	<vector>
+	<fstream>
+
+1635832985 c:\users\majid\onedrive\desktop\hospital management system\patient.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<typeinfo>
+	<string.h>
+	<string>
+	<vector>
+
+1635834628 source:d:\my class\3rd semester\cse 4302(oop lab)\190041205 cse 4302\hospital management system\main.cpp
+	<iostream>
+	"doctor.h"
+	<windows.h>
+	<fstream>
+
+1637081775 d:\my class\3rd semester\cse 4302(oop lab)\190041205 cse 4302\hospital management system\doctor.h
+	<process.h>
+	<iostream>
+	<algorithm>
+	<typeinfo>
+	"patient.h"
+	<stdio.h>
+	<string.h>
+	<string>
+	<vector>
+	<fstream>
+
+1635834257 d:\my class\3rd semester\cse 4302(oop lab)\190041205 cse 4302\hospital management system\patient.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<typeinfo>
+	<string.h>
+	<string>
+	<vector>
+
