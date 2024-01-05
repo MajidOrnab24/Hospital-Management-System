@@ -77,3 +77,30 @@
 	<string>
 	<vector>
 
+1664039796 source:e:\university projects\hospital management system\main.cpp
+	<iostream>
+	"doctor.h"
+	<windows.h>
+	<fstream>
+
+1637081776 e:\university projects\hospital management system\doctor.h
+	<process.h>
+	<iostream>
+	<algorithm>
+	<typeinfo>
+	"patient.h"
+	<stdio.h>
+	<string.h>
+	<string>
+	<vector>
+	<fstream>
+
+1635834258 e:\university projects\hospital management system\patient.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<typeinfo>
+	<string.h>
+	<string>
+	<vector>
+

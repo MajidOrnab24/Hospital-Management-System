@@ -49,10 +49,12 @@ ofstream file1;
         {
         case 'a':
             system("cls");
+            a.ad=1;
             if(a.ad==0)
             {
                 a.verify();
             }
+
             if(a.ad==1)
             {
                 system("cls");
